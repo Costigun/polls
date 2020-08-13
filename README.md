@@ -1,7 +1,7 @@
 # polls
 
 # Documentation
-https://pollsapi351.docs.apiary.io/#reference/0/complete-polls
+https://pollsapi351.docs.apiary.io/
 
 # Installion Guide
 
